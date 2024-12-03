@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Review.practo&apos; to &apos;Mouthshut&apos;&#x0D;&#x0A;- Original project: &apos;ReviewDemo&apos;&#x0D;&#x0A;- Original element: &apos;Review.practo&apos;&#x0D;&#x0A;- Renamed element: &apos;Review.Mouthshut&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;practo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Review{practo.java[practo" matchStrategy="1" name="Mouthshut" qualified="false" references="true" similarDeclarations="false" stamp="1731494284397" textual="false" version="1.0"/>
+</session>

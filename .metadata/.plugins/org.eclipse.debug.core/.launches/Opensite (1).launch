@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/openWebsite_seleniumServer/src/firstProject/Opensite.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="firstProject.Opensite"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="openWebsite_seleniumServer"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="openWebsite_seleniumServer"/>
+</launchConfiguration>
